@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- *descriotion  puts es una funcion en c
- *puts- es una funcion
- *return 0
+ * main - returns 0
+ *
+ * Description - main returns 0
+ * puts - es una funcion para escribir caracteres
+ * Return: 0
  */
 int main(void)
 {
