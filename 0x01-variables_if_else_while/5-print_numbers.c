@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 /**
  * Main - Imprimir los numeros
@@ -8,12 +8,14 @@
 
 int main(void)
 {
-	int num
+
+	int num;
 
 	for (num = 0; num < 10; num++)
-		printf('%d', num);
+		printf("%d", num);
 
-	printf('\n');
+	printf("\n");
 
 	return (0);
+
 }
