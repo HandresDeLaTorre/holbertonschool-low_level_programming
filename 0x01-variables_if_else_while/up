@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 chmod u+x *
 git add *
 git commit -m "Commit automatico desde bin bash tes 1"
