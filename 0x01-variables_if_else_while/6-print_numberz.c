@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * Main - Imprimir los numeros
- * descrition programa para imprimir los numero del 1 al 10
- * Return: siempre 0
+ * main - put char variables.
+ *
+ * Return: Always 0.
  */
-
 int main(void)
 {
 	int num;
