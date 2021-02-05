@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * Main - Imprimir los numeros.
+ * main - Imprimir los numeros.
  *
  * Description - programa para imprimir los numero del 1 al 10.
  *
