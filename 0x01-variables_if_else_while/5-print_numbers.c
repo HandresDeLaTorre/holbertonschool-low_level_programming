@@ -2,7 +2,7 @@
 
 /**
  * Main - Imprimir los numeros
- * descrition programa para imprimir los numero del 1 al 10
+ * Description - programa para imprimir los numero del 1 al 10
  * Return: siempre 0
  */
 
