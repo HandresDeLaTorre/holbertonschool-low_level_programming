@@ -1,0 +1,6 @@
+#!/bin/bash
+chmod u+x *
+git status
+git add *
+git commit -m "Commit ejecutado con bin bash desde la consola"
+git push
