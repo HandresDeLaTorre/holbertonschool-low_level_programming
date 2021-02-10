@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod u+x *
+git add *
+git commit -m "Commit enviado desde programa bin bash"
+git push
