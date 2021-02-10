@@ -1,16 +1,14 @@
 #include "holberton.h"
 
 /**
- * main - check the code for Holberton School students.
- *
- * Return: returnar   0.
+ * print_alphabet - imprimir alfabeto.
  */
 void print_alphabet(void)
 {
-	char letter;
+	char letra;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-		_putchar(letter);
+	for (letra = 'a'; letra <= 'z'; letra++)
+		_putchar(letra);
 
 	_putchar('\n');
 }
