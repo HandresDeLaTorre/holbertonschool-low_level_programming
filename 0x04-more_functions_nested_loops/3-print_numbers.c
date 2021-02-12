@@ -4,7 +4,7 @@
  * print_numbers - Prints 0-9 using _putchar function
  *
  *
- * Return: void
+ * Return: 0
  */
 void print_numbers(void)
 {
