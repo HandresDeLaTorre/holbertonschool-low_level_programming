@@ -1,0 +1,6 @@
+#!/bin/bash
+chmod a+x *
+git add *
+git status
+git commit -m "Commit automatico con bin bash"
+git push
