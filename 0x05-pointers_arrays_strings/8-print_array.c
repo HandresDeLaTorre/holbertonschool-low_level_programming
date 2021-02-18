@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * print_array - prints contents of array to stdout individually
+ * print_array - imprimir contenido 
  *
- * @a: array to print from
- * @n: number of array values of print
+ * @a: array to print 
+ * @n: num imprimir
  * Return: void
  */
 

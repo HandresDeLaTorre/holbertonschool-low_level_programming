@@ -1,11 +1,11 @@
 #include "holberton.h"
 
 /**
- * _strlen - returns the length of a given string
+ * _strlen - misma funcion
  *
  *
- * @s: string to check the length of
- * Return: returns the length of the string
+ * @s: string a verificar
+ * Return: returns el largo
  */
 int _strlen(char *s)
 {
@@ -19,9 +19,9 @@ int _strlen(char *s)
 
 
 /**
- * puts_half - prints the second half of a string
+ * puts_half - imprime la mitad
  *
- * @str: string to print half of
+ * @str: string segunda mitad
  * Return: void
  */
 

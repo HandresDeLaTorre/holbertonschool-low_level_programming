@@ -1,11 +1,11 @@
 #include "holberton.h"
 
 /**
- * _strlen - returns the length of a given string
+ * _strlen - misma variable
  *
  *
- * @s: string to check the length of
- * Return: returns the length of the string
+ * @s: string a verificar
+ * Return: returns 
  */
 int _strlen(char *s)
 {
@@ -18,12 +18,12 @@ int _strlen(char *s)
 }
 
 /**
- * _strcpy - copies an entire string to a buffer
+ * _strcpy - copia el string
  *
  *
- * @src: source string to copy
- * @dest: buffer to copy string into
- * Return: returns pointer to copied string
+ * @src: string a copiar
+ * @dest: espacio donde se copia
+ * Return: returna el puntero
  */
 
 char *_strcpy(char *dest, char *src)

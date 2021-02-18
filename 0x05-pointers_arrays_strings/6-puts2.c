@@ -1,10 +1,10 @@
 #include "holberton.h"
 
 /**
- * _strlen - returns the length of a given string
+ * _strlen - retorna el length con un caracter
  *
  *
- * @s: string to check the length of
+ * @s: string 
  * Return: returns the length of the string
  */
 int _strlen(char *s)
@@ -19,7 +19,7 @@ int _strlen(char *s)
 
 
 /**
- * puts2 - prints every other character in a string
+ * puts2 - prints 
  *
  * @str: string to print
  * Return: void
